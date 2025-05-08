@@ -36,7 +36,7 @@ We also aimed to **increase the classification accuracy** of the model. Through 
 
 ---
 
-## 📊 Visualization
+## Visualization
 
 The ROC curve was plotted to illustrate the trade-off between sensitivity and specificity. A higher AUC indicates better model performance.
 
