@@ -4,7 +4,7 @@ This project focuses on the **prediction of heart disease** using logistic regre
 
 ## Project Objective
 
-The main objective of this project is to explore whether a specific feature — **left ventricular hypertrophy** — is significantly associated with heart disease and whether it can be used to build a reliable classifier.
+The main objective of this project is to explore whether a specific feature is significantly associated with heart disease and whether it can be used to build a reliable classifier.
 
 We also aimed to **increase the classification accuracy** of the model. Through careful feature selection and preprocessing, we achieved an approximate **3% improvement in accuracy** over the baseline model.
 
@@ -14,7 +14,7 @@ We also aimed to **increase the classification accuracy** of the model. Through 
 1. **Preprocessing:**
    - Handled categorical features using one-hot encoding.
    - Removed irrelevant columns post-encoding.
-   - Selected a specific feature (`left ventricular hypertrophy`) for targeted modeling.
+   - Selected a specific feature for targeted modeling.
 
 2. **Modeling:**
    - Performed train-test split with 70-30 ratio.
